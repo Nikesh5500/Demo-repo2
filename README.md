@@ -4,3 +4,4 @@
 
 ## How to open The index browser?
 1. Double click on the inedx.html.
+2. Enjoy your index.html.
