@@ -8,3 +8,4 @@
 
 ## How to create the css file?
 1. Click on file and add the new file.
+2. Now write some css code.
